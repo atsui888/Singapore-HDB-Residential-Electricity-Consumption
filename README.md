@@ -33,7 +33,5 @@ Data Cleaning, Transformation to create a interactive online dashboard for Singa
     - Table 88 Resident Population by Planning Area and Age Group and Gender
         - https://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=17560#
 
-Data Cleaning and Transformation including string replacements, data type conversions, groupby, pivot, melt, sorting operations, mathematical operations, dataframe concatenations etc. for the 7 datasets to clean and transform them for easier visualization and analysis.
-
-Data cleansing and transformation in Python, basic EDA in Python, Interactive Online Dashboard using Tableau.
+Data cleaning and transformation including string replacements, data type conversions, groupby, pivot, melt, sorting operations, mathematical operations, dataframe concatenations etc. for the 7 datasets was done in Python. Interactive Online Dashboard was created using Tableau.
 
