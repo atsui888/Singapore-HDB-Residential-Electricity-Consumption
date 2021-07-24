@@ -19,17 +19,17 @@ Data Cleaning, Transformation to create a interactive online dashboard for Singa
 *SingStat.gov.sg*
 - Population Census 2000
     - Table 1 Resident Population by DGP Zone and Age Group
-    - https://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=9010#
+        - https://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=9010#
 
 - Population Census 2010
--   Table 1 Resident Population by Planning Area and Age Group
-    - https://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=8621#
+    -   Table 1 Resident Population by Planning Area and Age Group
+        - https://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=8621#
 
-•	General Household Survey 2015
+- General Household Survey 2015
     - Table 7 Resident Population by Planning Area/Subzone, Age Group and Sex
         - http://www.tablebuilder.singstat.gov.sg:80/publicfacing/createDataTable.action?refId=8182
 
-•	Population Census 2020
+- Population Census 2020
     - Table 88 Resident Population by Planning Area and Age Group and Gender
         - https://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=17560#
 
